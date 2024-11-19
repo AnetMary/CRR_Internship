@@ -12,5 +12,5 @@ Budget phones lead in quantity sold, while mobiles are the primary revenue gener
 ### **Payment Method Analysis**  
 Digital payments (Debit, Mobile, and Credit) account for nearly 90% of sales, highlighting a strong shift towards cashless transactions. Cash payments remain minimal, reflecting customer preference for convenience and modern payment methods.
 
-#### **Price and Quantity Insights**  
+### **Price and Quantity Insights**  
 The pricing strategy aligns well with product types: mobiles as premium, tablets as mid-range, and accessories as affordable. Accessories drive high volumes but low revenue, while mobiles contribute heavily to revenue. Tablets may benefit from targeted promotions to improve both sales volume and revenue.
